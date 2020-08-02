@@ -11,7 +11,7 @@ email: lorem.lorem@ipsum.com
 twitter_username: ryuugaplays
 twitch_public_url: ryuugaplays # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: https://www.github.com/ryuugaplays/space/blob/master/RyuugaPlaysLogo250.png
+profile_picture: https://raw.githubusercontent.com/ryuugaplays/space/master/RyuugaPlaysLogo250.png
 
 # Build settings
 markdown: kramdown
